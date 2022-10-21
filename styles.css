@@ -1,0 +1,26 @@
+* {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.navbar-list {
+  display: flex;
+  padding: 30px 0;
+}
+
+.logo-image {
+  width: 15%;
+}
+
+.menu-list {
+  display: flex;
+}
+
+.menu-list li {
+  padding: 3px;
+}
