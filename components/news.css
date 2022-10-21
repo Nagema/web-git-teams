@@ -51,4 +51,9 @@
   .logo-image {
     width: 15%;
   }
+  .main-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 50px;
+  }
 }
